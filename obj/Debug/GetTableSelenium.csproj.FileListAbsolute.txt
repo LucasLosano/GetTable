@@ -1,0 +1,12 @@
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\GetTableSelenium\GetTableSelenium\bin\Debug\GetTableSelenium.exe.config
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\GetTableSelenium\GetTableSelenium\bin\Debug\GetTableSelenium.exe
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\GetTableSelenium\GetTableSelenium\bin\Debug\GetTableSelenium.pdb
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\GetTableSelenium\GetTableSelenium\bin\Debug\nunit.framework.dll
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\GetTableSelenium\GetTableSelenium\bin\Debug\WebDriver.dll
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\GetTableSelenium\GetTableSelenium\bin\Debug\nunit.framework.xml
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\GetTableSelenium\GetTableSelenium\bin\Debug\WebDriver.xml
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\GetTableSelenium\GetTableSelenium\obj\Debug\GetTableSelenium.csprojAssemblyReference.cache
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\GetTableSelenium\GetTableSelenium\obj\Debug\GetTableSelenium.csproj.CoreCompileInputs.cache
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\GetTableSelenium\GetTableSelenium\obj\Debug\GetTableSelenium.csproj.CopyComplete
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\GetTableSelenium\GetTableSelenium\obj\Debug\GetTableSelenium.exe
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\TESTES\GetTableSelenium\GetTableSelenium\obj\Debug\GetTableSelenium.pdb
